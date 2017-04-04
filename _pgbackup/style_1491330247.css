@@ -1,0 +1,25 @@
+
+
+.imgleft
+{
+    width: 50%;
+   
+}
+
+
+.imgere
+{
+    width: 60%;
+    float: right;
+    margin-top: 167px;
+}
+
+.txts
+{
+    font-size: 40px;
+    position: absolute;
+    margin-top: 190px;
+    text-align: center;
+    padding-left: 70px;
+}
+
